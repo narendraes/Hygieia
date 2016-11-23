@@ -19,7 +19,7 @@ dbname=${SPRING_DATA_MONGODB_DATABASE:-dashboard}
 dbhost=${SPRING_DATA_MONGODB_HOST:-10.0.1.1}
 
 #Database Port - default is 27017
-dbport=${SPRING_DATA_MONGODB_PORT:-9999}
+dbport=${SPRING_DATA_MONGODB_PORT:-27017}
 
 #Database Username - default is blank
 dbusername=${SPRING_DATA_MONGODB_USERNAME:-db}
